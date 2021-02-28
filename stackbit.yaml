@@ -16,7 +16,7 @@ logicFields:
   - grid_section.background_image_opacity
   - cta_section.background_image_opacity
   - form_section.background_image_opacity
-models
+models:
   config:
     type: config
     label: Site configuration
